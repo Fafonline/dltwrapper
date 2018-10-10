@@ -6,7 +6,7 @@ A wrapper for DLT (diagnostic trace and tools)
 
 # Example
 
-```
+```c++
 
 #include <iostream>
 #include <thread>
