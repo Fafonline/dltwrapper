@@ -1,0 +1,8 @@
+Requires: automotive-dlt
+
+Name: @PROJECT_NAME@
+Description: Wrapper for DLT logger
+Version: 1.0.0
+Cflags:-I@INC_INSTALL_DIR@
+Libs:-L@LIB_INSTALL_DIR@ -l@PROJECT_NAME@
+
